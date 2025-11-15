@@ -65,7 +65,7 @@ void main() {
                 IO.println("\n------------------------");
             }
             if (i == 10){
-                IO.println("MENU DE CIFRADOS HECHO POR EDSON ORELLANA\n selecciona una opcion \n 1- CIFRADO CESAR \n 2- CIFRADO ATBASH\n 0- SALIR");
+                IO.println("MENU DE CIFRADOS HECHO POR PENTIUM\n selecciona una opcion \n 1- CIFRADO CESAR \n 2- CIFRADO ATBASH\n 0- SALIR");
             }
         }
         int opcion = Integer.parseInt(IO.readln("Ingrese la opcion a realizar "));
